@@ -1,7 +1,7 @@
 import os.path
 from os import path
 #a minor change
-##############################
+#############
 name = "Desktop\part_of_LD3_Kotryna_Ven\Foresight.txt"
 
 def Read():
